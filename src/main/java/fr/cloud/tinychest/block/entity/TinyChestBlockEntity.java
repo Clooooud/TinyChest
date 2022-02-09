@@ -1,4 +1,4 @@
-package fr.cloud.tinychest.blockentity;
+package fr.cloud.tinychest.block.entity;
 
 import fr.cloud.tinychest.screenhandlers.TinyChestScreenHandler;
 import net.minecraft.block.BlockState;
@@ -6,7 +6,6 @@ import net.minecraft.block.entity.ChestBlockEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.item.ItemStack;
-import net.minecraft.screen.HopperScreenHandler;
 import net.minecraft.screen.ScreenHandler;
 import net.minecraft.text.Text;
 import net.minecraft.text.TranslatableText;

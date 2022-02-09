@@ -1,7 +1,7 @@
 package fr.cloud.tinychest.block;
 
-import fr.cloud.tinychest.blockentity.BlockEntities;
-import fr.cloud.tinychest.blockentity.TinyChestBlockEntity;
+import fr.cloud.tinychest.block.entity.BlockEntities;
+import fr.cloud.tinychest.block.entity.TinyChestBlockEntity;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
 import net.minecraft.block.entity.BlockEntity;

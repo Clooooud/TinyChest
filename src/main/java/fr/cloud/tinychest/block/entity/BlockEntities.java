@@ -1,4 +1,4 @@
-package fr.cloud.tinychest.blockentity;
+package fr.cloud.tinychest.block.entity;
 
 import fr.cloud.tinychest.block.Blocks;
 import net.fabricmc.fabric.api.object.builder.v1.block.entity.FabricBlockEntityTypeBuilder;
