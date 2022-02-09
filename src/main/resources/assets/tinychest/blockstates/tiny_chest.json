@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tinychest:block/tiny_chest", "uvlock": false },
+    "facing=east":  { "model": "tinychest:block/tiny_chest", "y":  90, "uvlock": false },
+    "facing=south": { "model": "tinychest:block/tiny_chest", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "tinychest:block/tiny_chest", "y": 270, "uvlock": false }
+  }
+}
