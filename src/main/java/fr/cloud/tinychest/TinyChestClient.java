@@ -1,6 +1,6 @@
 package fr.cloud.tinychest;
 
-import fr.cloud.tinychest.screen.TinyChestScreen;
+import fr.cloud.tinychest.gui.TinyChestScreen;
 import fr.cloud.tinychest.screenhandlers.ScreenHandlers;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;

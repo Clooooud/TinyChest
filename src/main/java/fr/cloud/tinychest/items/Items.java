@@ -1,7 +1,7 @@
-package fr.cloud.tinychest.item;
+package fr.cloud.tinychest.items;
 
 import fr.cloud.tinychest.TinyChest;
-import fr.cloud.tinychest.block.Blocks;
+import fr.cloud.tinychest.blocks.Blocks;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.util.registry.Registry;

@@ -1,4 +1,4 @@
-package fr.cloud.tinychest.block;
+package fr.cloud.tinychest.blocks;
 
 import net.minecraft.util.registry.Registry;
 

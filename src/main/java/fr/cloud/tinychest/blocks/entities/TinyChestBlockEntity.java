@@ -1,4 +1,4 @@
-package fr.cloud.tinychest.block.entity;
+package fr.cloud.tinychest.blocks.entities;
 
 import fr.cloud.tinychest.screenhandlers.TinyChestScreenHandler;
 import net.minecraft.block.BlockState;

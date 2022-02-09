@@ -1,4 +1,4 @@
-package fr.cloud.tinychest.screen;
+package fr.cloud.tinychest.gui;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 import fr.cloud.tinychest.screenhandlers.TinyChestScreenHandler;

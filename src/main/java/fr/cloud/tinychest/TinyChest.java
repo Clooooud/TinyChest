@@ -1,8 +1,8 @@
 package fr.cloud.tinychest;
 
-import fr.cloud.tinychest.block.Blocks;
-import fr.cloud.tinychest.block.entity.BlockEntities;
-import fr.cloud.tinychest.item.Items;
+import fr.cloud.tinychest.blocks.Blocks;
+import fr.cloud.tinychest.blocks.entities.BlockEntities;
+import fr.cloud.tinychest.items.Items;
 import fr.cloud.tinychest.screenhandlers.ScreenHandlers;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;

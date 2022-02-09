@@ -1,6 +1,6 @@
-package fr.cloud.tinychest.block.entity;
+package fr.cloud.tinychest.blocks.entities;
 
-import fr.cloud.tinychest.block.Blocks;
+import fr.cloud.tinychest.blocks.Blocks;
 import net.fabricmc.fabric.api.object.builder.v1.block.entity.FabricBlockEntityTypeBuilder;
 import net.minecraft.block.entity.BlockEntityType;
 import net.minecraft.util.registry.Registry;
