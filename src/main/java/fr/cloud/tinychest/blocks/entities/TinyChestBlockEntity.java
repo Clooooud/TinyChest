@@ -17,7 +17,7 @@ public class TinyChestBlockEntity extends ChestBlockEntity {
 
     public TinyChestBlockEntity(BlockPos pos, BlockState state) {
         super(BlockEntities.TINY_CHEST_BLOCK_ENTITY, pos, state);
-        this.setInvStackList(DefaultedList.ofSize(5, ItemStack.EMPTY));
+        this.setInvStackList(DefaultedList.ofSize(4, ItemStack.EMPTY));
     }
 
     @Nullable
@@ -43,6 +43,6 @@ public class TinyChestBlockEntity extends ChestBlockEntity {
 
     @Override
     public int size() {
-        return 5;
+        return 4;
     }
 }
