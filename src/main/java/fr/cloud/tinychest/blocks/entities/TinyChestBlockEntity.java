@@ -7,8 +7,9 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.item.ItemStack;
 import net.minecraft.screen.ScreenHandler;
+import net.minecraft.text.MutableText;
 import net.minecraft.text.Text;
-import net.minecraft.text.TranslatableText;
+import net.minecraft.text.TranslatableTextContent;
 import net.minecraft.util.collection.DefaultedList;
 import net.minecraft.util.math.BlockPos;
 import org.jetbrains.annotations.Nullable;
@@ -38,7 +39,7 @@ public class TinyChestBlockEntity extends ChestBlockEntity {
 
     @Override
     protected Text getContainerName() {
-        return new TranslatableText("container.tiny_chest");
+        return MutableText.of(new TranslatableTextContent("container.tiny_chest"));
     }
 
     @Override

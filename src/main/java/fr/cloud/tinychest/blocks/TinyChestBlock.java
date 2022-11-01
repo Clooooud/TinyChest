@@ -4,7 +4,6 @@ import fr.cloud.tinychest.blocks.entities.BlockEntities;
 import fr.cloud.tinychest.blocks.entities.TinyChestBlockEntity;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
-import net.minecraft.block.Blocks;
 import net.minecraft.block.entity.BlockEntity;
 import net.minecraft.fluid.FluidState;
 import net.minecraft.fluid.Fluids;
